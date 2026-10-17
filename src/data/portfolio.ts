@@ -1,6 +1,5 @@
 import {
   Boxes,
-  BriefcaseBusiness,
   Cloud,
   Code2,
   Database,
