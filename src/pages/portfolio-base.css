@@ -1,0 +1,6 @@
+*,*::before,*::after { box-sizing:border-box; }
+html,body,#root { margin:0; min-width:320px; min-height:100%; height:auto; }
+body { background:#111a17; color:#18211d; font-family:'DM Sans',Arial,sans-serif; }
+#root { min-height:100vh; }
+button,input,textarea,select { font:inherit; }
+:focus-visible { outline:3px solid #86a76d; outline-offset:3px; }

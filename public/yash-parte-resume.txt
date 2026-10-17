@@ -1,0 +1,28 @@
+YASH PARTE
+Business Applications & Digital Delivery
+India · parteyash@gmail.com · github.com/YashParte
+
+PROFILE
+Business applications and digital delivery professional working across operations teams, software vendors and developers. Experienced in translating business needs into clear requirements, coordinating application delivery and improving practical workflows.
+
+EXPERIENCE
+Assistant Manager · Writgen Group · Current
+Lead business application initiatives, Microsoft 365 administration and Power Platform work. Partner with vendors on development changes and guide developers and analysts toward practical outcomes.
+
+Professional experience · John Deere · 1.5 years
+An early professional chapter in enterprise technology and business operations.
+
+SELECTED INITIATIVES
+Customer communications hub · Connected WhatsApp, SMS and call-centre workflows.
+Service team CRM · Shaped a dedicated workspace for service workflows and customer context.
+CargoFL logistics platform · Supported implementation, rollout and workflow adoption.
+CDP & ECN tracker · Helped define a shared application workflow for product and engineering changes.
+
+TECHNOLOGY
+JavaScript · TypeScript · React · Next.js · Node.js · Python · SQL · AWS · Microsoft 365 · Power Platform · Power BI · Git
+
+EDUCATION
+Bachelor of Computer Applications · Manipal University Jaipur
+Diploma in Electrical Engineering · Bharati Vidyapeeth
+
+More information: https://github.com/YashParte
